@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">projectDemoAp</string>
+    <string name="slogan">Hello everyone, I am a Android prer</string>
+    <string name="Button_login">Log in</string>
+    <string name="sign_up">Sign up for Facebook</string>
+    <string name="inputUN">Input Username</string>
+    <string name="inputPW">Input password</string>
+    <string name="forgot_password">Forgot Password</string>
+
 </resources>
